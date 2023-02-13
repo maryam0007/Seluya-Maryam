@@ -12,3 +12,8 @@ img{
     display: flex;
     justify-content: center;
 }
+#quote,#img-caption{
+    display: flex;
+    justify-content: center;
+}
+
